@@ -29,3 +29,6 @@
 · Build scalable and useful products
 
 · Grow through consistent coding
+
+![Programming aesthetic](https://github.com/user-attachments/assets/890c80e1-044e-4db9-afb6-e149782b7f8a)
+

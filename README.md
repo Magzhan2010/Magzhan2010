@@ -1,16 +1,31 @@
-## Hi there 👋
+👋 Hi, I’m Magzhan
 
-<!--
-**Magzhan2010/Magzhan2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web Developer focused on building real projects and strong fundamentals.
 
-Here are some ideas to get you started:
+🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+· ⚛️ React / Next.js
+
+· 🟨 JavaScript
+
+· 🐍 Python
+
+· 🗄️ MySQL
+
+🛠 What I Do
+
+· Build modern web applications
+
+· Work on frontend logic & UI
+
+· Develop backend logic with Python
+
+· Turn ideas into working projects 🚀
+
+🎯 Goals
+
+· Become a strong full-stack developer
+
+· Build scalable and useful products
+
+· Grow through consistent coding

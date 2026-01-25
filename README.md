@@ -30,5 +30,6 @@
 
 · Grow through consistent coding
 
-![Programming aesthetic](https://github.com/user-attachments/assets/890c80e1-044e-4db9-afb6-e149782b7f8a)
+
+![Programming aesthetic wallpaper](https://github.com/user-attachments/assets/45b32f1f-c272-46ed-9025-b8483e8e5b78)
 

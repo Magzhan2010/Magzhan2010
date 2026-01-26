@@ -37,4 +37,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Magzhan2010&show_icons=true&theme=tokyonight" alt="Magzhan2010 GitHub Stats" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Web+Developer+FullStack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Web+Developer)](https://git.io/typing-svg)

@@ -33,3 +33,4 @@
 
 ![Programming aesthetic wallpaper](https://github.com/user-attachments/assets/45b32f1f-c272-46ed-9025-b8483e8e5b78)
 
+https://github-readme-stats.vercel.app/api?username=Magzhan2010&show_icons=true&theme=tokyonight

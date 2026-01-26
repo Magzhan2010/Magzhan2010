@@ -34,4 +34,4 @@
 ![Programming aesthetic wallpaper](https://github.com/user-attachments/assets/45b32f1f-c272-46ed-9025-b8483e8e5b78)
 
 
-<img width="465" height="186" alt="Screenshot 2026-01-26 141410" src="https://github.com/user-attachments/assets/2ace9b13-db84-41ca-ad92-cf541141cd3a" />
+<img width="465" height="186" alt="Screenshot 2026-01-26 141410" src="https://github.com/user-attachments/assets/87f8bae1-6022-4bf0-a6bc-9aed2191a1dc" />

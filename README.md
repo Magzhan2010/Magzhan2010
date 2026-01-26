@@ -33,4 +33,5 @@
 
 ![Programming aesthetic wallpaper](https://github.com/user-attachments/assets/45b32f1f-c272-46ed-9025-b8483e8e5b78)
 
-https://github-readme-stats.vercel.app/api?username=Magzhan2010&show_icons=true&theme=tokyonight
+<img width="465" height="186" alt="Screenshot 2026-01-26 141410" src="https://github.com/user-attachments/assets/ead18188-450d-4296-a1b8-f411c9380513" />
+

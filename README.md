@@ -30,11 +30,7 @@
 
 · Grow through consistent coding
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript]([https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square))
-
 ![Programming aesthetic wallpaper](https://github.com/user-attachments/assets/45b32f1f-c272-46ed-9025-b8483e8e5b78)
-
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Web+Developer)](https://git.io/typing-svg)
 

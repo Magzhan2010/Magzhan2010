@@ -30,7 +30,8 @@
 
 · Grow through consistent coding
 
-![HTML5](https://img.shields.io) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io) 
 
 ![Programming aesthetic wallpaper](https://github.com/user-attachments/assets/45b32f1f-c272-46ed-9025-b8483e8e5b78)
 
